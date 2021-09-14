@@ -1,0 +1,24 @@
+{
+  "name": "g3woondylans_discordbot",
+  "version": "1.0.0",
+  "description": "Een zelf gecodeerde Tech support bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "voorstellen",
+    "regels",
+    "spm"
+  ],
+  "author": "G3woonDylan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
